@@ -1,0 +1,11 @@
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Excel temporary files
+~$*
+
+# Power BI temporary files
+*.pbitmp
